@@ -9,6 +9,9 @@ Aural Function is a company that tries to bridge the gap between the music, gami
 [![](https://img.shields.io/twitter/follow/erwinweber96?style=social)](https://twitter.com/erwinweber96)
 [![](https://img.shields.io/badge/Linkedin-black?logo=linkedin&logoColor=white&style=flat&color=0077b5)](https://www.linkedin.com/in/erwinweber96/)
 
+[![](https://img.shields.io/badge/Fiverr-black?logo=fiverr&logoColor=white&style=flat&color=00b22d)](https://www.fiverr.com/erwinweber)
+[![](https://img.shields.io/badge/Freelancer-black?logo=freelancer&logoColor=white&style=flat&color=2f7fc1)](https://www.freelancer.com/u/erwinweber)
+
 ### Projects
 
 - [**Geardown**](https://geardown.gg)    
