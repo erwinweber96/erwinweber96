@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**erwinweber96/erwinweber96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Erwin Weber and I'm the owner of a company called [**Aural Function**](https://aural-function.com).
 
-Here are some ideas to get you started:
+Aural Function is a company that tries to bridge the gap between the music, gaming and esports sectors by offering a variety of products and services tailored towards artists, streamers, content creators, esports organizations and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![](https://img.shields.io/twitch/status/erwinweber?style=social)](https://twitch.tv/erwinweber)
+[![](https://img.shields.io/twitter/follow/erwinweber96?style=social)](https://twitter.com/erwinweber96)
+[![](https://img.shields.io/badge/Linkedin-black?logo=linkedin&logoColor=white&style=flat&color=0077b5)](https://www.linkedin.com/in/erwinweber96/)
+
+### Projects
+
+- [**Geardown**](https://geardown.gg)    
+Previously known as esac.gg, Geardown.gg is an esports platform tailored towards Trackmania, that centralizes relevent information about the competitive scene, hosts tournament organization features and offers various services that help streamers and organizers elevate their engagement and production quality.
+
+- [**Neuronoir**](https://neuronoir.art)    
+Neuronoir serves as a hub for a group of friends who share a passion for dark and heavy music. In there you'll find releases, articles written about things they enjoy that are adjacent to their artistic pursuits and a shop with merchandise.
+
+👯 I’m looking to collaborate on projects that are part of the music and esports industry. 
+
+📫 How to reach me: [**erwinweber96@live.com**](mailto:erwinweber96@live.com)
