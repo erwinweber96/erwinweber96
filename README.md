@@ -22,4 +22,4 @@ Neuronoir serves as a hub for a group of friends who share a passion for dark an
 
 👯 I’m looking to collaborate on projects that are part of the music and esports industry. 
 
-📫 How to reach me: [**erwinweber96@live.com**](mailto:erwinweber96@live.com)
+📫 How to reach me: [**https://www.linkedin.com/in/erwinweber96/**](https://www.linkedin.com/in/erwinweber96/)
