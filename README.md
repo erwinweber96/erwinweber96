@@ -20,6 +20,23 @@ Previously known as esac.gg, Geardown.gg is an esports platform tailored towards
 - [**Neuronoir**](https://neuronoir.art)    
 Neuronoir serves as a hub for a group of friends who share a passion for dark and heavy music. In there you'll find releases, articles written about things they enjoy that are adjacent to their artistic pursuits and a shop with merchandise.
 
+### Experience
+
+- [**own3d.tv** (Feb 2022 - Jul 2022)](https://own3d.tv)    
+Own3d.tv is a marketplace for streamers, that provides tools and products such as stream overlays, banners, emotes, etc.
+As part of own3d.tv I was responsible for maintaining and building new features and services for the website. 
+I did various API intregrations, building a CRM service and more.
+
+- [**Plentymarkets** (May 2019 - Feb 2022)](https://own3d.tv)    
+Plentymarkets is an all-in-one e-commerce ERP solution, which combines a comprehensive stock management system with a versatile shop system and 
+efforttless multichannel sales.
+My job at plentymarkets was integrating marketplaces and other third party platforms into plugins that are either publicly listed or tailored for certain 
+customers. Features that these plugins have range from automating various order fulfillment processes to catalog management.
+
+- [**Nokia** (Aug 2016 - Aug 2017)](https://own3d.tv)    
+Nokia Corporation is a Finnish multinational telecommunications, information technology, and consumer electronics company. 
+As part of Nokia, I developed and enhanced several web applications that were used internally for administrative purposes, for example warehouse and stock management.
+
 👯 I’m looking to collaborate on projects that are part of the music and esports industry. 
 
 📫 How to reach me: [**https://www.linkedin.com/in/erwinweber96/**](https://www.linkedin.com/in/erwinweber96/)
