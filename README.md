@@ -42,6 +42,6 @@ customers. Features that these plugins have range from automating various order 
 Nokia Corporation is a Finnish multinational telecommunications, information technology, and consumer electronics company. 
 As part of Nokia, I developed and enhanced several web applications that were used internally for administrative purposes, for example warehouse and stock management.
 
-👯 I’m looking to collaborate on projects that are part of the music and esports industry. 
+👯 I’m looking to collaborate on projects that are part of the music industry. 
 
 📫 How to reach me: [**https://www.linkedin.com/in/erwinweber96/**](https://www.linkedin.com/in/erwinweber96/)
