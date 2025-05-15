@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-I'm Erwin Weber and I'm the owner of a company called [**Aural Function**](https://aural-function.com).
+I'm Erwin Weber, a multifaceted DIY enthusiast with a passion for music, technology, and creative solutions. With years of experience in the music industry and web development, I've dedicated myself to supporting artists and creatives with their technical needs.
 
-Aural Function is a company that tries to bridge the gap between the music industry and ecommerce by offering a variety of products and services tailored towards artists, labels and more.
+[![](https://img.shields.io/badge/Portfolio-black?style=flat)](https://erwinweber.io)
 
-
-[![](https://img.shields.io/twitch/status/erwinweber?style=social)](https://twitch.tv/erwinweber)
-[![](https://img.shields.io/twitter/follow/erwinweber96?style=social)](https://twitter.com/erwinweber96)
 [![](https://img.shields.io/badge/Linkedin-black?logo=linkedin&logoColor=white&style=flat&color=0077b5)](https://www.linkedin.com/in/erwinweber96/)
-
 [![](https://img.shields.io/badge/Fiverr-black?logo=fiverr&logoColor=white&style=flat&color=00b22d)](https://www.fiverr.com/erwinweber)
 [![](https://img.shields.io/badge/Freelancer-black?logo=freelancer&logoColor=white&style=flat&color=2f7fc1)](https://www.freelancer.com/u/erwinweber)
+[![](https://img.shields.io/badge/Upwork-black?logo=upwork&logoColor=white&style=flat&color=14a800)](https://www.upwork.com/freelancers/~01f03722cdd1e3b892)
 
 ### Projects
 
